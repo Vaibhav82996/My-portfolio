@@ -48,9 +48,4 @@ Contact
 Email:vaibhavpanday245@gmail.com
 LinkedIn: (https://rb.gy/3yzlt5)
 
-License
-
-This project is licensed under the MIT License. See LICENSE for details.
-
-Remember to customize this template to fit your project's specific needs and showcase your work in the best possible light!
 
